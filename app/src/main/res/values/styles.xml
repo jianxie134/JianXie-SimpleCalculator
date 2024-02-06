@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextCustomStyle" parent="Widget.AppCompat.EditText">
+        <item name="colorControlNormal">@color/edittext_baseline_color</item> <!-- Color for baseline -->
+        <item name="colorControlActivated">@color/edittext_baseline_color</item> <!-- Color when focused -->
+    </style>
+</resources>

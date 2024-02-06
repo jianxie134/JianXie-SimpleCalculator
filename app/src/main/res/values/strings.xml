@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">[Jian Xie] Simple Calculator</string>
+    <string-array name="arithmetic_operations">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+        <item>Modulus</item>
+    </string-array>
+</resources>
